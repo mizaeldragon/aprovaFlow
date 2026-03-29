@@ -249,7 +249,7 @@ npm run dev
 
 ### 5. Configure o Supabase
 Além das variáveis de ambiente, o projeto depende de:
-
+s
 - tabelas `posts` e `comments`
 - bucket de storage para imagens
 - policies para leitura, inserção e atualização conforme o fluxo do MVP
@@ -259,7 +259,7 @@ Além das variáveis de ambiente, o projeto depende de:
 ## Link de deploy
 
 Aplicação em produção:  
-**[Adicionar link aqui]**
+**[(https://aprova-flow-beta.vercel.app/)]**
 
 Repositório / projeto:  
 **[https://github.com/mizaeldragon/aprovaFlow]**
