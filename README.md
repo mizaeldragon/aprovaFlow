@@ -225,7 +225,7 @@ Tela de acompanhamento com listagem paginada de posts, comentários, status e me
 
 ### 1. Clone o repositório
 ```bash
-git clone <seu-repositorio>
+git clone <https://github.com/mizaeldragon/aprovaFlow.git>
 cd aprovaflow
 ```
 
@@ -262,7 +262,7 @@ Aplicação em produção:
 **[Adicionar link aqui]**
 
 Repositório / projeto:  
-**[Adicionar link aqui]**
+**[https://github.com/mizaeldragon/aprovaFlow]**
 
 ---
 
